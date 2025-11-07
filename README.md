@@ -79,4 +79,4 @@ This project is licensed under the MIT License.
 
 ## Repository
 
-GitHub: [TODO ADD link]
+GitHub: https://github.com/citronlegacy/mass-pokemon-dataset-curator
